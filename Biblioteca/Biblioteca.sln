@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{1D32B236-161F-43E8-9359-136622B9C4DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Huascar", "Huascar\Huascar.csproj", "{59342ED9-59FF-4348-A4D0-8B9533609194}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D32B236-161F-43E8-9359-136622B9C4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D32B236-161F-43E8-9359-136622B9C4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D32B236-161F-43E8-9359-136622B9C4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D32B236-161F-43E8-9359-136622B9C4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59342ED9-59FF-4348-A4D0-8B9533609194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59342ED9-59FF-4348-A4D0-8B9533609194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59342ED9-59FF-4348-A4D0-8B9533609194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59342ED9-59FF-4348-A4D0-8B9533609194}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {425063E6-1EE7-4018-8269-4ECEA2634ED8}
+	EndGlobalSection
+EndGlobal
